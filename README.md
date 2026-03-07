@@ -1,6 +1,7 @@
 # Hi, I'm Dharmveer 👋
 
-💻 Learning Data Structures and Algorithms  
+🎓 Third Year Computer Science Student  
+💻 Learning Data Structures & Algorithms  
 🌐 Learning Web Development  
 
 ---
@@ -15,30 +16,22 @@
 
 ## 🛠 Tech Stack
 
-**Languages**
-- C
-- C++
-- Python
-- JavaScript
+Languages:  
+C, C++, Python, JavaScript  
 
-**Frontend**
-- HTML
-- CSS
-- React
+Frontend:  
+HTML, CSS, React  
 
-**Backend**
-- Node.js
-- Express.js
-- EJS
+Backend:  
+Node.js, Express.js, EJS  
 
-**Database**
-- MongoDB
-- Mongoose
+Database:  
+MongoDB, Mongoose  
 
 ---
 
 ## 📈 Learning Goals
 
-- Master Data Structures & Algorithms
+- Become strong in Data Structures and Algorithms
 - Build full-stack web applications
-- Contribute to open source
+- Improve problem solving ability
