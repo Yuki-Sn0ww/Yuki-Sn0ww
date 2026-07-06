@@ -73,28 +73,26 @@
 - 💡 Exploring scalable backend architectures and system design principles.
 
 ---
-
 ## ⚡ Stats & Activity
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Yuki-Sn0ww&show_icons=true&theme=radium" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuki-Sn0ww&theme=radium" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Sn0ww&layout=compact&theme=radium" alt="Top Languages" />
-      </td>
-      <td align="center" width="50%">
-        <a href="https://leetcode.com/u/vMbGF8fcgQ/">
-          <img height="195" src="https://leetcard.jacoblin.cool/vMbGF8fcgQ?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="50%">
+<img width="470" height="195" src="https://github-readme-stats.vercel.app/api?username=Yuki-Sn0ww&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</td>
+<td align="center" width="50%">
+<img width="470" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuki-Sn0ww&theme=radical&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img width="470" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Sn0ww&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</td>
+<td align="center" width="50%">
+<a href="https://leetcode.com/u/vMbGF8fcgQ/">
+<img width="470" height="195" src="https://leetcard.jacoblin.cool/vMbGF8fcgQ?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+</a>
+</td>
+</tr>
+</table>
 </div>
