@@ -77,19 +77,19 @@
 
 <div align="center">
 
-
+### GitHub Stats
 
 <img width="470" src="https://github-readme-stats.vercel.app/api?username=Yuki-Sn0ww&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
+### Streak Stats
 
+<img width="470" src="https://streak-stats.demolab.com/?user=Yuki-Sn0ww&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuki-Sn0ww&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-
+### Top Languages
 
 <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Sn0ww&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-
+### LeetCode Stats
 
 <a href="https://leetcode.com/u/vMbGF8fcgQ/">
 <img width="470" src="https://leetcard.jacoblin.cool/vMbGF8fcgQ?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
