@@ -78,12 +78,12 @@
 
 <div align="center">
   <img src="https://github.com/Dhami-r/Yuki-Sn0ww/actions/workflows/main.yml/badge.svg" alt="Metrics" style="display: none;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuki-Sn0ww&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuki-Sn0ww&theme=radium" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhami-r&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhami-r&theme=radium" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Sn0ww&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhami-r&layout=compact&theme=radium" alt="Top Languages" />
   <a href="https://leetcode.com/u/vMbGF8fcgQ/">
     <img src="https://leetcard.jacoblin.cool/vMbGF8fcgQ?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
   </a>
