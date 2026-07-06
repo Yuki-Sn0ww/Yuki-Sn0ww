@@ -80,7 +80,12 @@
 ### GitHub Stats
 
 <img width="470" src="https://github-readme-stats.vercel.app/api?username=Yuki-Sn0ww&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+### Streak Stats
+
 <img width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuki-Sn0ww&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+### Top Languages
 
 <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Sn0ww&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
